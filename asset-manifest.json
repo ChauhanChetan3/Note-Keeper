@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.e1f5ea53.js",
-    "index.html": "/index.html",
-    "main.e1f5ea53.js.map": "/static/js/main.e1f5ea53.js.map"
+    "main.js": "/Note-Keeper/static/js/main.e1f5ea53.js",
+    "index.html": "/Note-Keeper/index.html",
+    "main.e1f5ea53.js.map": "/Note-Keeper/static/js/main.e1f5ea53.js.map"
   },
   "entrypoints": [
     "static/js/main.e1f5ea53.js"
